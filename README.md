@@ -4,12 +4,15 @@ A Python-based data analysis tool for **Excel**, using **Pandas** for data proce
 
 ## Set Up data
 Run the script to create "sample_data.xlsx":
-    ```sh
-    python excel.py
-    ```
+```sh
+python excel.py
+```
 
 ## Usage
 Open notebook and run the cells step by step:
+
+<br>
+
 <img src="boxplot.png" alt="Boxplot Screenshot" width="512"/>
 
 <br>
